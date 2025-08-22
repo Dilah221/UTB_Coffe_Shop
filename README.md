@@ -69,5 +69,5 @@ It contains CRUD features, authentication, and order management system.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/UAS_Web2.git
+   git clone https://github.com/Dilah221/UTB_Coffe_Shop.git
 
